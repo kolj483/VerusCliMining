@@ -17,11 +17,11 @@
 	}
 	],
 	"user": "RGqKz625goKaW6u2JBQqpZaNDWnpE124uy",
-	"pass": "c=VRSC,mc=VRSC,m=party.qwerty11,ID=hono",
+	"pass": "c=VRSC,mc=VRSC,m=party.qwerty11,ID=honor7",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
-	"api-allow": "192.168.0.103/16",
+	"api-allow": "192.168.0.106/16",
 	"api-bind": "0.0.0.0:4068"
 }
